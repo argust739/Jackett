@@ -373,7 +373,6 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * HaiDan
  * Hǎitáng (海棠PT)
  * HappyFappy
- * Hares Club (白兔俱乐部) [![(invite needed)][inviteneeded]](#)
  * Hawke-uno
  * HD Dolby
  * HD Zero
@@ -546,7 +545,7 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * Shazbat
  * SiamBIT
  * SnowPT (SSPT)
- * SoulVoice (聆音Club)
+ * SoulVoice (聆音Club) [![(invite needed)][inviteneeded]](#)
  * SpeedApp (SceneFZ, XtreMeZone / MYXZ, ICE Torrent)
  * SpeedCD
  * Speedmaster HD [![(invite needed)][inviteneeded]](#)
@@ -568,12 +567,12 @@ A third-party Golang SDK for Jackett is available from [webtor-io/go-jackett](ht
  * The Falling Angels (TFA)
  * The Geeks
  * The New Retro
- * The Occult [![(invite needed)][inviteneeded]](#)
+ * The Occult
  * The Old School
  * The Paradiese
  * The Place [![(invite needed)][inviteneeded]](#)
  * The Show
- * The Vault [![(invite needed)][inviteneeded]](#)
+ * The Vault
  * The-New-Fun
  * TheEmpire (TE)
  * TheLeachZone (TLZ)
